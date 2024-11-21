@@ -63,7 +63,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "puppeteer": "^22.8.0",
+    "puppeteer": "^23.9.0",
     "sitka": "^1.1.1"
   }
 }
